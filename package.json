@@ -1,0 +1,18 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "description": "A simple DNS server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DNS"
+  ],
+  "author": "Deepakkumar-Maurya",
+  "license": "MIT",
+  "dependencies": {
+    "dns-packet": "^5.6.1"
+  }
+}
